@@ -18,12 +18,13 @@ class SquarePerimeter { // Defining the SquarePerimeter class
     }
 }
 
-/*Output  */
+/*Output  
 
 Enter the length of one side of the square: 6
 The perimeter of the square is: 24.0
 
 Enter the length of one side of the square: 8.6
 The perimeter of the square is: 34.4
+*/
 
 
